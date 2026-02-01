@@ -1,6 +1,6 @@
 # 💫 About Me:
-Full Stack | MERN Stack Developer 
-Exploring AWS/Cloud 
+Full Stack | MERN Stack Developer |
+Exploring AWS/Cloud |
 C++ | JAVA | PYTHON
 
 # 💻 Tech Stack:
