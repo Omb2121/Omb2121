@@ -15,31 +15,19 @@ C++ | JAVA | PYTHON
 
 
 
+# Hi 👋 I'm Om
 
-
-
-
-# Hi, I'm Om 👋
-
-### LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sparky-2501)
-
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ombhosale&show_icons=true)
-
-### Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ombhosale)
-
-### Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ombhosale)
-![Snake animation](https://raw.githubusercontent.com/ombhosale/ombhosale/output/github-contribution-grid-snake.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=ombhosale&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ombhosale&show_icons=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ombhosale&theme=dark)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ombhosale&theme=github-dark)](https://github.com/ombhosale)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sparky-2501?theme=dark)
+
+
+
+
 
 
 
