@@ -13,6 +13,29 @@ C++ | JAVA | PYTHON
 ---
 [![](https://visitcount.itsvg.in/api?id=Omb2121&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+
+
+
+# Hi, I'm Om 👋
+
+### LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Sparky-2501)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ombhosale&show_icons=true)
+
+### Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ombhosale)
+
+### Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ombhosale)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
