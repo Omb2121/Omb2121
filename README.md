@@ -1,19 +1,12 @@
 # Hi 👋, I'm Om Bhosale
 
-### 🚀 Aspiring Software Engineer | AI & ML Enthusiast | Competitive Programmer
+| AI & ML Enthusiast | Competitive Programmer
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Things&center=true&width=700&height=45">
 </p>
 
 ---
-
-## 🌐 Portfolio
-
-🔗 Portfolio Website: https://YOUR_USERNAME.github.io/
-
----
-
 ## 💻 Coding Profiles
 
 <p align="left">
