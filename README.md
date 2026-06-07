@@ -62,7 +62,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sparky-2501?theme=dark&font=Karma"/>
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/omb2121?theme=dark)"/>
 </p>
 
 ---
