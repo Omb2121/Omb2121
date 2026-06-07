@@ -62,7 +62,7 @@
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/omb2121?theme=dark)"/>
+  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/ombhosale233?theme=dark)"/>
 </p>
 
 ---
