@@ -1,49 +1,92 @@
-# 💫 About Me:
-Full Stack | MERN Stack Developer |
-Exploring AWS/Cloud |
-C++ | JAVA | PYTHON
+# Hi 👋, I'm Om Bhosale
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Omb2121&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Omb2121&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Omb2121&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 Aspiring Software Engineer | AI & ML Enthusiast | Competitive Programmer
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Things&center=true&width=700&height=45">
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Omb2121&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌐 Portfolio
 
+🔗 Portfolio Website: https://YOUR_USERNAME.github.io/
 
-# Hi 👋 I'm Om
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ombhosale&show_icons=true&theme=dark)
+## 💻 Coding Profiles
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ombhosale&theme=dark)
+<p align="left">
+  <a href="https://leetcode.com/u/Sparky-2501/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ombhosale&theme=github-dark)](https://github.com/ombhosale)
+  <a href="https://www.codechef.com/users/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Sparky-2501?theme=dark)
+  <a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
+</p>
 
+---
 
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ombhosale&show_icons=true&theme=tokyonight"/>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ombhosale&layout=compact&theme=tokyonight"/>
+</p>
 
+---
 
+## 🔥 GitHub Streak
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ombhosale&theme=tokyonight"/>
+</p>
 
-<!--
-**Omb2121/Omb2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📈 Contribution Graph
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ombhosale&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ombhosale&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sparky-2501?theme=dark&font=Karma"/>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Omb2121
+* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/om-bhosale-622b97321/)
+
