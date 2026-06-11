@@ -7,6 +7,11 @@ can you give me like thiss
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Things&center=true&width=700&height=45">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Omb2121&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+
 ---
 ## 💻 Coding Profiles
 
@@ -29,9 +34,9 @@ can you give me like thiss
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ombhosale&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omb2121&show_icons=true&theme=tokyonight"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ombhosale&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omb2121e&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -39,7 +44,7 @@ can you give me like thiss
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ombhosale&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?username=Omb2121&theme=tokyonight"/>
 </p>
 
 ---
@@ -47,7 +52,7 @@ can you give me like thiss
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ombhosale&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omb2121&theme=tokyo-night"/>
 </p>
 
 ---
@@ -55,7 +60,7 @@ can you give me like thiss
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ombhosale&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Omb2121&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
@@ -63,7 +68,7 @@ can you give me like thiss
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="![LeetCode Stats](https://leetcard.jacoblin.cool/ombhosale233?theme=dark)"/>
+  <img src="https://leetcard.jacoblin.cool/ombhosale233?theme=dark&font=Karma&ext=contest"/>
 </p>
 
 ---
@@ -97,4 +102,6 @@ can you give me like thiss
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Omb2121
-* LinkedIn: [YOUR_LINKEDIN_URL](https://www.linkedin.com/in/om-bhosale-622b97321/)
+<a href="https://www.linkedin.com/in/om-bhosale-622b97321/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
