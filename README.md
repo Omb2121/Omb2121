@@ -1,107 +1,112 @@
-can you give me like thiss
-# Hi 👋, I'm Om Bhosale
-
-| AI & ML Enthusiast | Competitive Programmer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Om%20Bhosale&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20STACK%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Things&center=true&width=700&height=45">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omb2121&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
-
----
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/ombhosale233/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-
-  <a href="https://www.codechef.com/users/ombhosale233">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
-
-  <a href="https://www.geeksforgeeks.org/profile/bhosale3ctu">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <a href="https://komarev.com/ghpvc/?username=omb2121">
+    <img src="https://komarev.com/ghpvc/?username=omb2121&label=Profile%20views&color=00FFFF&style=flat-square" alt="omb2121's profile views" />
   </a>
 </p>
 
----
+## 📌 About Me
+- 🌱Consistently practicing Data Structures & Algorithms in C++
+- 🤖 Exploring AI/ML, LLMs
+- 💻 Building full-stack applications using MERN stack
 
-## 📊 GitHub Statistics
 
+## 🧠 My Focus Areas
+- Web Development
+- AL/ML
+
+
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Omb2121&show_icons=true&theme=tokyonight"/>
+  <a href="https://github.com/omb2121">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omb2121&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="omb2121's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=omb2121&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="omb2121's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=omb2121&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Om Bhosale's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=omb2121&theme=highcontrast&radius=10" alt="omb2121's Activity Graph" />
+</p>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
+</div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omb2121e&layout=compact&theme=tokyonight"/>
+
+## 🛠️ Languages & Tools
+
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
+
 </p>
 
----
-
-## 🔥 GitHub Streak
-
+<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?username=Omb2121&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+
 </p>
 
----
-
-## 📈 Contribution Graph
-
+<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Omb2121&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
+
 </p>
 
----
-
-## 🏆 GitHub Trophies
-
+<h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Omb2121&theme=tokyonight&row=1&column=7"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+
 </p>
 
----
-
-## 🧠 LeetCode Stats
-
+<h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ombhosale233?theme=dark&font=Karma&ext=contest"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
+
 </p>
 
----
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
-## 🛠️ Tech Stack
+</p>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://github.com/omb2121">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omb2121&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Top language](https://stats.pphat.top/languages?username=omb2121)
+<br/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/om-bhosale-622b97321/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/9975936160">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhosaleom439@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
-### AI & Data Science
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
----
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
-## 📫 Connect With Me
-
-* GitHub: https://github.com/Omb2121
-<a href="https://www.linkedin.com/in/om-bhosale-622b97321/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
