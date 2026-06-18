@@ -1,5 +1,9 @@
 # Hi 👋, I'm Om Bhosale
 
+<p align="center">
+  <img src="./banner.png" alt="Om Bhosale Banner" width="100%" />
+</p>
+
 <h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Electronics & Telecommunication Engineer</h3>
 
 <p align="center">
