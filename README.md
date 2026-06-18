@@ -87,13 +87,6 @@
 </p>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omb2121&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ## 📊 GitHub Statistics
@@ -111,11 +104,7 @@
 </p>
 
 ---
-## 🏆 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/ombhosale233?theme=dark&font=Karma&ext=contest" />
-</p>
 
 ## 📈 LeetCode Activity
 
@@ -124,9 +113,7 @@
 </p>
 
 
-![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=ombhosale233&theme=dark)
 
-## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omb2121&theme=tokyo-night" />
@@ -134,30 +121,90 @@
 
 ---
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Featured+Projects;FinFit;AI+Elderly+Care+Assistant;Water+Contamination+Reporting;VeriPass;AI+Stock+Market+Analyzer" />
+</p>
+
 ## 🚀 Featured Projects
 
-### 💰 FinFit
 
-Gamified financial fitness platform for students.
+<table>
+<tr>
+<td width="50%">
+
+### 💰 FinFit
+📊 Gamified Financial Fitness Platform
+
+- Expense Tracking
+- UPI Analytics
+- Achievement Badges
+- Smart Insights
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+</td>
+
+<td width="50%">
 
 ### 🤖 AI Elderly Care Assistant
+🎙️ Voice-Based Healthcare Companion
 
-Voice-enabled healthcare companion for senior citizens.
+- Voice Commands
+- Emergency Calling
+- Medication Reminders
+- Health Monitoring
 
-### 💧 Water Contamination Reporting System
+<img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge"/>
 
-Smart risk mapping platform using AI and GIS.
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💧 Water Contamination Reporting
+🌍 AI + GIS Risk Mapping
+
+- Interactive Maps
+- AI Predictions
+- Citizen Reports
+- Admin Dashboard
+
+<img src="https://img.shields.io/badge/Hackathon-Ready-orange?style=for-the-badge"/>
+
+</td>
+
+<td width="50%">
 
 ### 🔐 VeriPass
+⛓️ Blockchain Identity Verification
 
-Blockchain-based identity verification platform.
+- Smart Contracts
+- IPFS Storage
+- Secure Authentication
+- Decentralized IDs
+
+<img src="https://img.shields.io/badge/Web3-Live-purple?style=for-the-badge"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2">
 
 ### 📊 AI Stock Market Analyzer
+📈 ML-Based Stock Prediction System
 
-Predictive analytics dashboard using Machine Learning.
+- Market Analysis
+- Trend Prediction
+- Dashboard Analytics
+- Machine Learning Models
 
----
+<img src="https://img.shields.io/badge/Machine-Learning-red?style=for-the-badge"/>
 
+</td>
+</tr>
+</table>
 ## 💻 Coding Profiles
 
 * 🔥 LeetCode: https://leetcode.com/ombhosale233
