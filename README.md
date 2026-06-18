@@ -1,7 +1,7 @@
 # Hi 👋, I'm Om Bhosale
 
 <p align="center">
-  <img src="./banner.png" alt="Om Bhosale Banner" width="100%" />
+  <img src="./WhatsApp Image 2026-06-18 at 19.52.23.jpeg" alt="Om Bhosale Banner" width="100%" />
 </p>
 
 <h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Electronics & Telecommunication Engineer</h3>
