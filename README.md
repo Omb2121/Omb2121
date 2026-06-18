@@ -1,112 +1,163 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Om%20Bhosale&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20STACK%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
+# Hi 👋, I'm Om Bhosale
+
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Electronics & Telecommunication Engineer</h3>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=omb2121">
-    <img src="https://komarev.com/ghpvc/?username=omb2121&label=Profile%20views&color=00FFFF&style=flat-square" alt="omb2121's profile views" />
-  </a>
-</p>
-
-## 📌 About Me
-- 🌱Consistently practicing Data Structures & Algorithms in C++
-- 🤖 Exploring AI/ML, LLMs
-- 💻 Building full-stack applications using MERN stack
-
-
-## 🧠 My Focus Areas
-- Web Development
-- AL/ML
-
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/omb2121">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=omb2121&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="omb2121's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=omb2121&theme=highcontrast&hide_border=true&cache_seconds=86400" alt="omb2121's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=omb2121&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Om Bhosale's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=omb2121&theme=highcontrast&radius=10" alt="omb2121's Activity Graph" />
-</p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
-
-## 🛠️ Languages & Tools
-
-<h3 align="center">Programming Languages</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-
-</p>
-
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />
-
-</p>
-
-<h3 align="center">Database</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/omb2121">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omb2121&langs_count=8&layout=compact&theme=highcontrast&border_radius=10" alt="Top Languages" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=omb2121&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/omb2121?label=Followers&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/omb2121?affiliations=OWNER&style=for-the-badge" />
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=omb2121)
-<br/>
+---
 
-## 🔗 Connect with Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 👨‍💻 About Me
+
+* 🎓 BE Electronics & Telecommunication Engineering
+* 🌱 Currently learning **AI, Machine Learning & Deep Learning**
+* 💻 Passionate about **MERN Stack Development**
+* 🚀 Building AI-powered and Full Stack Projects
+* 🏆 Competitive Programmer
+* 📫 Reach me at: **[bhosaleom439@gmail.com](mailto:bhosaleom439@gmail.com)**
+* ⚡ Fun Fact: **I debug faster after coffee ☕**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/omb2121">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.codechef.com/users/omb_12">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" width="40"/>
+</a>
+
+<a href="https://leetcode.com/ombhosale233">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="40"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/bhosale3ctu">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210915115837/gfg3.png" width="40"/>
+</a>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,python" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,gcp" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/om-bhosale-622b97321/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/9975936160">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:bhosaleom439@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
+<img src="https://github-profile-trophy.vercel.app/?username=omb2121&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=omb2121&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omb2121&theme=tokyonight" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omb2121&layout=compact&theme=tokyonight" />
+</p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omb2121&theme=tokyo-night" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 FinFit
+
+Gamified financial fitness platform for students.
+
+### 🤖 AI Elderly Care Assistant
+
+Voice-enabled healthcare companion for senior citizens.
+
+### 💧 Water Contamination Reporting System
+
+Smart risk mapping platform using AI and GIS.
+
+### 🔐 VeriPass
+
+Blockchain-based identity verification platform.
+
+### 📊 AI Stock Market Analyzer
+
+Predictive analytics dashboard using Machine Learning.
+
+---
+
+## 💻 Coding Profiles
+
+* 🔥 LeetCode: https://leetcode.com/ombhosale233
+* 🍜 CodeChef: https://www.codechef.com/users/omb_12
+* 🌳 GeeksforGeeks: https://www.geeksforgeeks.org/profile/bhosale3ctu
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/omb2121/omb2121/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### ✨ Quote of the Day
+
+> "First, solve the problem. Then, write the code." – John Johnson
