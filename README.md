@@ -111,6 +111,20 @@
 </p>
 
 ---
+## 🏆 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ombhosale233?theme=dark&font=Karma&ext=contest" />
+</p>
+
+## 📈 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ombhosale233?theme=dark&ext=heatmap" />
+</p>
+
+
+![LeetCode Heatmap](https://leetcode-badge-showcase.vercel.app/api?username=ombhosale233&theme=dark)
 
 ## 📈 Contribution Graph
 
