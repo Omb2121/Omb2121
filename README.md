@@ -1,7 +1,7 @@
 
 
 
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Electronics & Telecommunication Engineer</h3>
+<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI+%26+ML+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" />
