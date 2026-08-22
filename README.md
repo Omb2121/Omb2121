@@ -60,31 +60,31 @@
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,python" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,firebase" />
 </p>
 
 ### Tools & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,gcp" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 ---
