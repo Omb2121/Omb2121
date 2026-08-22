@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-📧 <b>Email:</b> [bhosaleom439@gmail.com](mailto:bhosaleom439@gmail.com)
+📧 <b>Email:</b> bhosaleom439@gmail.com
 </p>
 
 ---
