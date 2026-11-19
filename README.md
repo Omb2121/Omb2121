@@ -1,68 +1,145 @@
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              OM BHOSALE PROFILE             -->
+<!-- ═══════════════════════════════════════════ -->
+
+<!-- HERO SECTION -->
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4" alt="omb2121 hero visual" />
+  <img
+    src="https://www.gitskins.com/api/section/hero?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4"
+    alt="Om Bhosale Hero Visual"
+    width="100%"
+  />
 </p>
 
-<p align="center"><b>om bhosale </b> · Frontend or full-stack engineer<br/><sub>MERN Stack Developer | C++ | PYTHON | AI/ML</sub></p>
+<!-- INTRODUCTION -->
+<h2 align="center">Om Bhosale</h2>
 
-<p align="center"><a href="https://github.com/omb2121">GitHub</a></p>
+<p align="center">
+  <b>Frontend & Full-Stack Engineer</b>
+</p>
 
+<p align="center">
+  MERN Stack Developer | C++ | Python | AI/ML
+</p>
+
+<p align="center">
+  <a href="https://github.com/omb2121">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<!-- TOP PROJECTS -->
 <details open>
-<summary><b>📌 Top projects</b></summary>
-<br/>
+  <summary><b>📌 Top Projects</b></summary>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4" alt="omb2121 projects visual" />
-</p>
+  <br/>
 
-- [Gemini-ChatBot](https://github.com/Omb2121/Gemini-ChatBot) · ★ 1 — About The Google Gemini-Pro Chat Application is a Streamlit-based web interface that facilitates int
-- [End-to-End-Airbnb-Price-Prediction](https://github.com/Omb2121/End-to-End-Airbnb-Price-Prediction) · ★ 1 — About The purpose of this project is to predict the price of Airbnb rentals based on various feature
-- [HTMLANDCSS](https://github.com/Omb2121/HTMLANDCSS) · ★ 1 — HTML AND CSS Basics
-- [DSA](https://github.com/Omb2121/DSA) · ★ 1
-- [AW-2025-Portfolio-main](https://github.com/Omb2121/AW-2025-Portfolio-main) · ★ 1
-- [water-contamination-tracker](https://github.com/Omb2121/water-contamination-tracker) · ★ 1 — SaaS and IoT based project
+  <p align="center">
+    <img
+      src="https://www.gitskins.com/api/section/projects?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4"
+      alt="Om Bhosale Projects"
+      width="100%"
+    />
+  </p>
 
+  <ul>
+    <li>
+    
 </details>
 
+---
+
+<!-- TECH STACK -->
 <details>
-<summary><b>🧰 Stack</b></summary>
-<br/>
+  <summary><b>🧰 Tech Stack</b></summary>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4" alt="omb2121 stack visual" />
-</p>
+  <br/>
 
+  <p align="center">
+    <img
+      src="https://www.gitskins.com/api/section/stack?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4"
+      alt="Om Bhosale Tech Stack"
+      width="100%"
+    />
+  </p>
 </details>
 
+---
+
+<!-- GITHUB STATS -->
 <details>
-<summary><b>📊 By the numbers</b></summary>
-<br/>
+  <summary><b>📊 By The Numbers</b></summary>
 
-<b>28</b> public repositories, <b>14</b> stars, <b>234</b> contributions in the last year, a longest streak of <b>6</b> days and <b>3</b> followers.
+  <br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4" alt="omb2121 stats visual" />
-</p>
+  <p align="center">
+    <b>28</b> Public Repositories
+    &nbsp; • &nbsp;
+    <b>14</b> Stars
+    &nbsp; • &nbsp;
+    <b>234</b> Contributions
+    <br/><br/>
+    <b>6 Days</b> Longest Streak
+    &nbsp; • &nbsp;
+    <b>3</b> Followers
+  </p>
 
+  <p align="center">
+    <img
+      src="https://www.gitskins.com/api/section/stats?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4"
+      alt="GitHub Statistics"
+      width="100%"
+    />
+  </p>
 </details>
 
+---
+
+<!-- CONTRIBUTION ACTIVITY -->
 <details>
-<summary><b>🟩 Activity</b></summary>
-<br/>
+  <summary><b>🟩 Contribution Activity</b></summary>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=omb2121&theme=neon" alt="omb2121 contribution activity" />
-</p>
+  <br/>
 
+  <p align="center">
+    <img
+      src="https://www.gitskins.com/api/section/heatmap?username=omb2121&theme=neon"
+      alt="GitHub Contribution Heatmap"
+      width="100%"
+    />
+  </p>
 </details>
 
+---
+
+<!-- SOCIAL SECTION -->
 <details>
-<summary><b>👋 Say hello</b></summary>
-<br/>
+  <summary><b>👋 Say Hello</b></summary>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4" alt="omb2121 social visual" />
-</p>
+  <br/>
 
+  <p align="center">
+    <img
+      src="https://www.gitskins.com/api/section/social?username=omb2121&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F195620323%3Fu%3D5c934a74054f370f90e6553764fc6fb3585aa98a%26v%3D4"
+      alt="Om Bhosale Social Links"
+      width="100%"
+    />
+  </p>
 </details>
 
-<p align="center"><sub>om bhosale  · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <b>Building • Learning • Innovating 🚀</b>
+</p>
+
+<p align="center">
+  <sub>
+    Om Bhosale · Everything hub generated with
+    <a href="https://www.gitskins.com/readme-generator">GitSkins</a>
+  </sub>
+</p>
